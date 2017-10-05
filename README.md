@@ -1,4 +1,5 @@
 # Website
 Dynamic website developed in PHP
+Linked to relational database (artist-album-track) 
 
-[Read more words!](screenshot.png)
+[Artists page design example](screenshot.png)
