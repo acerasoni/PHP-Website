@@ -2,4 +2,7 @@
 Dynamic website developed in PHP
 Linked to relational database (artist-album-track) 
 
-[Artists page design example](screenshot.png)
+[Homepage Design](homepagess.png)
+[Artists Page Design](artistss.png)
+[Albums Page Design](albumss.png)
+[Tracks Page Design](trackss.png)
